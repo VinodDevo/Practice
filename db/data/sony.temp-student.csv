@@ -1,0 +1,5 @@
+id,name,gender,rollNo,class_id,city,country,region,landmark,houseno
+1,Amit Kumar,Male,ECE101,1,Chennai,India,Tamil Nadu,Near Central Library,12A
+2,Priya Sharma,Female,ECE102,1,Bengaluru,India,Karnataka,MG Road,45B
+3,Rahul Verma,Male,ECE201,2,Hyderabad,India,Telangana,Near Charminar,8C
+4,Ananya Iyer,Female,ECE202,2,Coimbatore,India,Tamil Nadu,Gandhipuram,22
